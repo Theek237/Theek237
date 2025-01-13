@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h1 align="center">Hey, I'm Theekshana Alahakoon.</h1>
+<h1 align="center">Hey, I'm Theekshana Tishen Alahakoon.</h1>
 
 ###
 
