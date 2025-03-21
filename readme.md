@@ -1,17 +1,17 @@
 <div align="center">
   <h1>🚀 Theekshana Tishen Alahakoon</h1>
   <p><i>Full-Stack Developer | UI UX Designer </i></p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&lines=Welcome+to+my+digital+playground!;Exploring+tech+one+commit+at+a+time" alt="Typing Animation">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&lines=Welcome+to+my+digital+playground!;Coding,+securing,+and+designing+the+future" alt="Typing Animation">
 </div>
 
 ---
 
 ## 🧩 About Me
 
-- 💡 Passionate about crafting intelligent digital experiences
-- ⚡ Obsessed with automation & AI advancements
-- 🏆 Open-source contributor & lifelong learner
-- 🌱 Currently exploring blockchain & Web3
+- 💡 Mastering full-stack development with the MERN stack
+- ⚡ Focused on securing systems through cybersecurity expertise
+- 🎨 Crafting intuitive and engaging designs as a UI/UX designer
+- 🌱 Always pushing boundaries with open-source and innovative tech
 
 ---
 
