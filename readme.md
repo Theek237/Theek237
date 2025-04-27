@@ -1,7 +1,7 @@
 <div align="center">
   <h1>🚀 Theekshana Tishen Alahakoon</h1>
   <p><i>Full-Stack Developer | UI UX Designer </i></p>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=10000&pause=1000&color=00FFFF¢er=true&vCenter=true&width=600&lines=Coding,+securing,+and+designing+the+future" alt="Typing Animation">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=10000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Coding,+securing,+and+designing+the+future" alt="Typing Animation">
 </div>
 
 ---
